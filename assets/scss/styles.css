@@ -1648,11 +1648,16 @@ input {
   }
   .main .properties .prop-bot .prop-bot-1 .prop-bot-1-des {
     position: absolute;
-    bottom: 60px;
+    bottom: 25px;
     background-color: white;
+    padding: 10px 35px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
@@ -1667,27 +1672,30 @@ input {
     font-size: 15px;
   }
   .main .properties .prop-bot .prop-bot-2 {
-    -ms-grid-column: 2;
-    -ms-grid-column-span: 1;
-    grid-column: 2/3;
     position: relative;
-    -ms-grid-row: 1;
-    -ms-grid-row-span: 1;
-    grid-row: 1/2;
+    height: 100%;
   }
   .main .properties .prop-bot .prop-bot-2 .prop-bot-2-img img {
-    width: 290px;
-    height: 170px;
+    min-width: 304px;
+    height: 100%;
     -o-object-fit: cover;
        object-fit: cover;
   }
   .main .properties .prop-bot .prop-bot-2 .prop-bot-2-des {
     position: absolute;
-    bottom: 45px;
+    bottom: 25px;
     background-color: white;
-    padding: 5px 10px;
-    text-align: center;
-    left: 8%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 10px 35px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
     color: black;
   }
   .main .properties .prop-bot .prop-bot-2 .prop-bot-2-des .prop-bot-2-des-tit {
@@ -1699,24 +1707,30 @@ input {
     font-size: 15px;
   }
   .main .properties .prop-bot .prop-bot-3 {
-    -ms-grid-column: 2;
-    -ms-grid-column-span: 1;
-    grid-column: 2/3;
     position: relative;
-    -ms-grid-row: 2;
-    -ms-grid-row-span: 1;
-    grid-row: 2/3;
+    height: 100%;
   }
   .main .properties .prop-bot .prop-bot-3 .prop-bot-3-img img {
-    max-width: 250px;
+    min-width: 304px;
+    height: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
   }
   .main .properties .prop-bot .prop-bot-3 .prop-bot-3-des {
     position: absolute;
-    bottom: 45px;
+    bottom: 25px;
     background-color: white;
-    padding: 5px 10px;
-    text-align: center;
-    left: 8%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 10px 35px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
     color: black;
   }
   .main .properties .prop-bot .prop-bot-3 .prop-bot-3-des .prop-bot-3-des-tit {
@@ -1728,24 +1742,30 @@ input {
     font-size: 15px;
   }
   .main .properties .prop-bot .prop-bot-4 {
-    -ms-grid-column: 3;
-    -ms-grid-column-span: 1;
-    grid-column: 3/4;
     position: relative;
-    -ms-grid-row: 1;
-    -ms-grid-row-span: 1;
-    grid-row: 1/2;
+    height: 100%;
   }
   .main .properties .prop-bot .prop-bot-4 .prop-bot-4-img img {
-    max-width: 250px;
+    min-width: 304px;
+    height: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
   }
   .main .properties .prop-bot .prop-bot-4 .prop-bot-4-des {
     position: absolute;
-    bottom: 45px;
+    bottom: 25px;
     background-color: white;
-    padding: 5px 10px;
-    text-align: center;
-    left: 8%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 10px 35px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
     color: black;
   }
   .main .properties .prop-bot .prop-bot-4 .prop-bot-4-des .prop-bot-4-des-tit {
@@ -1757,24 +1777,30 @@ input {
     font-size: 15px;
   }
   .main .properties .prop-bot .prop-bot-5 {
-    -ms-grid-column: 3;
-    -ms-grid-column-span: 1;
-    grid-column: 3/4;
-    -ms-grid-row: 2;
-    -ms-grid-row-span: 1;
-    grid-row: 2/3;
     position: relative;
+    height: 100%;
   }
   .main .properties .prop-bot .prop-bot-5 .prop-bot-5-img img {
-    max-width: 250px;
+    min-width: 304px;
+    height: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
   }
   .main .properties .prop-bot .prop-bot-5 .prop-bot-5-des {
     position: absolute;
-    bottom: 45px;
+    bottom: 25px;
     background-color: white;
-    padding: 5px 10px;
-    text-align: center;
-    left: 8%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 10px 35px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
     color: black;
   }
   .main .properties .prop-bot .prop-bot-5 .prop-bot-5-des .prop-bot-5-des-tit {
